@@ -1,1 +1,1 @@
-# closed_loop_RNN_learning_dynamics
+# closed_loop_rnn_learning_dynamics
