@@ -4,10 +4,10 @@ Code accompanying the paper characterizing the learning dynamics of recurrent ne
 
 ![Framework](https://github.com/yoavger/closed_loop_rnn_learning_dynamics/blob/main/framework.png?raw=true)
 
-- To reproduce the figures from the paper: ```figures.ipynb```
-- For training a **nonlinear RNN**:```train_non_linear.ipynb```
-- For the **theoretical analysis** of closed-loop RNNs:```theory.ipynb```
-- Code for the **tracking task**:```tracking_task.ipynb```
+- To reproduce the figures from the paper: ```code/figures.ipynb```
+- For training a **nonlinear RNN**:```code/train_non_linear.ipynb```
+- For the **theoretical analysis** of closed-loop RNNs:```code/theory.ipynb```
+- Code for the **tracking task**:```code/tracking_task.ipynb```
 
 
 
