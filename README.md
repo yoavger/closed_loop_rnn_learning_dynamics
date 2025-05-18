@@ -2,4 +2,4 @@
 Code accompanying the project
 
 
-![Framework](https://github.com/yoavger/closed_loop_rnn_learning_dynamics/blob/main/framework.png?raw=true)
+<img src="https://github.com/yoavger/closed_loop_rnn_learning_dynamics/blob/main/framework.png" height="500" width="500">
