@@ -1,5 +1,6 @@
 # closed_loop_rnn_learning_dynamics
 Code accompanying the project
 
-<img src="https://github.com/yoavger/closed_loop_rnn_learning_dynamics/blob/main/framework.png?raw=true" width="500" height="auto">
+![Framework](https://github.com/yoavger/closed_loop_rnn_learning_dynamics/blob/main/framework.png?raw=true)
+
 
